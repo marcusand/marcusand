@@ -1,4 +1,4 @@
-Hi ✌ I'm Marcus!
+Hi, I'm Marcus!
 
 I'm a software developer with a focus on frontend development, user interfaces and multimedia technology.
 
